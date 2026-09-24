@@ -1,0 +1,5 @@
+const coolvetica = localFont({
+  src: "./fonts/Coolvetica-Regular.otf",
+  variable: "--font-coolvetica",
+  display: "swap",
+});
